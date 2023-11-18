@@ -2,6 +2,7 @@
 
 Play project learning typescript. 80's alien invader style game in typescript
 
+Play live here https://bjason.org/en/typescript/typescript-80s-alien-invader/
 
 ## to get going after clone
 

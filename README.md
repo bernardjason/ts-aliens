@@ -1,5 +1,6 @@
 # ts-aliens
-80's alien invader style game in typescript
+
+Play project learning typescript. 80's alien invader style game in typescript
 
 
 ## to get going after clone
@@ -20,4 +21,4 @@ python3 -m http.server
 then visit
 http://127.0.0.1:8000
 
-<img src="screenshot.png">
+<img src="screenshot.png" width="50%">
